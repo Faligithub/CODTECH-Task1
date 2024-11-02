@@ -1,9 +1,13 @@
-
 **Name:** FAREEHA ALI
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS8251
+
 **Domain:** Power BI
+
 **Duration:** 5th Oct 2024 - 5th Nov 2024
+
 **Mentor:** NEELA SANTOSH KUMAR
 
 ## Overview of the Project
